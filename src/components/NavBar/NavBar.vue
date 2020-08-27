@@ -1,5 +1,4 @@
 <template>
-<template>
   <div class="navbar">
     <ul class="flex border-b">
       <li class="mx-3">
